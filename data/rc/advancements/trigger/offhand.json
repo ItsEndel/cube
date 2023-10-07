@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "offhand": {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "player": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Offhand: 1b}"
+                        }
+                    }
+                }
+            }
+        }
+    },
+
+    "rewards": {
+        "function": "rc:player/offhand"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "use": {
+            "trigger": "using_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "ender_eye"
+                    ]
+                }
+            }
+        }
+    },
+
+    "rewards": {
+        "function": "rc:player/use"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "attack": {
+            "trigger": "player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "nbt": "{Tags: [AttackHandler]}"
+                }
+            }
+        }
+    },
+
+    "rewards": {
+        "function": "rc:player/attack"
+    }
+}
