@@ -15,4 +15,4 @@ execute as @a[tag=!AttackHandled, tag=InGame] at @s run function rc:entity/attac
 
 
 ## 检测玩家效果
-execute as @a[tag=Effected] at @s run function rc:effect/tick
+execute as @a[tag=InGame, tag=Effected] at @s run function rc:effect/tick

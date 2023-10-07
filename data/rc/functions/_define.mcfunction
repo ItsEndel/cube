@@ -12,3 +12,19 @@
 #define storage rc:data
 
 #endregion
+
+#region 标签
+
+#> Ticking
+# @public
+#
+# 实体有刻事件
+#define tag Ticking
+
+#> InGame
+# @public
+#
+# 玩家在游戏中
+#define tag InGame
+
+#endregion
