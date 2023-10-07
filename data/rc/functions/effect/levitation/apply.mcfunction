@@ -2,6 +2,8 @@
 # @public
 # @context AsEntity
 # @param temp::{duration, amplifier}
+#
+# 给予效果
 
 
 
