@@ -7,6 +7,7 @@
 scoreboard players set effected temp 0
 
 execute if entity @s[tag=Effected.levitation] run function rc:effect/levitation/tick
+execute if entity @s[tag=Effected.glowing] run function rc:effect/glowing/tick
 
 
 

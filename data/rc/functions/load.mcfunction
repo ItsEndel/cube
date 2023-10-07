@@ -10,8 +10,10 @@ scoreboard objectives add system dummy "系统变量"
 scoreboard objectives add temp dummy "临时变量"
 
 
+### 药水效果
+scoreboard objectives add effect.levitation.timer dummy "飘浮效果计时器"
 
-scoreboard objectives add effect.levitation.timer dummy 
+scoreboard objectives add effect.glowing.timer dummy "发光效果计时器"
 
 ## 创建队伍
 team add no_collision "无碰撞"
