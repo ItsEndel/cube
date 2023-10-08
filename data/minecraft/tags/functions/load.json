@@ -1,5 +1,6 @@
 {
-    "values": [
-        "rc:load"
-    ]
+	"values": [
+		"rc:load",
+		"animated_java:test_enemy/zzzzzzzz/load"
+	]
 }

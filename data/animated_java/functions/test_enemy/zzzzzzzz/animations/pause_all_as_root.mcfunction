@@ -1,0 +1,6 @@
+function animated_java:test_enemy/zzzzzzzz/animations/idle/pause_as_root
+function animated_java:test_enemy/zzzzzzzz/animations/attacked_light_front/pause_as_root
+function animated_java:test_enemy/zzzzzzzz/animations/attacked_light_left/pause_as_root
+function animated_java:test_enemy/zzzzzzzz/animations/attacked_light_right/pause_as_root
+function animated_java:test_enemy/zzzzzzzz/animations/attacked_light_back/pause_as_root
+function animated_java:test_enemy/zzzzzzzz/animations/attacked_heavy_front/pause_as_root

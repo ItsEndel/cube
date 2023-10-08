@@ -1,5 +1,6 @@
 {
-    "values": [
-        "rc:tick"
-    ]
+	"values": [
+		"rc:tick",
+		"animated_java:tick"
+	]
 }

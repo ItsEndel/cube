@@ -1,0 +1,1 @@
+function animated_java:test_enemy/zzzzzzzz/animations/attacked_light_back/tick_animation

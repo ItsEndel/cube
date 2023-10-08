@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..6 run function animated_java:test_enemy/zzzzzzzz/animations/attacked_light_front/tree/branch_0_6

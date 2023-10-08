@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:test_enemy/zzzzzzzz/animations/attacked_heavy_front/tree/leaf_0_as_bone
