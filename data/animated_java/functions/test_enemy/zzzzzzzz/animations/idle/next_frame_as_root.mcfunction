@@ -1,1 +1,0 @@
-function animated_java:test_enemy/zzzzzzzz/animations/idle/tick_animation

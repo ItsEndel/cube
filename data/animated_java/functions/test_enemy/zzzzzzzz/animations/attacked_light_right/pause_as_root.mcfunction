@@ -1,1 +1,0 @@
-tag @s remove aj.test_enemy.animation.attacked_light_right

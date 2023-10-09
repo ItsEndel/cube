@@ -1,1 +1,0 @@
-function animated_java:test_enemy/zzzzzzzz/animations/attacked_heavy_front/tick_animation

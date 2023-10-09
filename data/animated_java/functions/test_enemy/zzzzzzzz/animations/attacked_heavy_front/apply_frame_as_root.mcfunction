@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0 run function animated_java:test_enemy/zzzzzzzz/animations/attacked_heavy_front/tree/leaf_0

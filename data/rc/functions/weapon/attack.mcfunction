@@ -1,7 +1,7 @@
 #> rc:weapon/attack
 # @within function 
 #   rc:player/attack
-# @param rc:data::{selected_item.tag.Weapon.id}
+# @param rc:data::{selected_item.tag.weapon.id}
 
 
 
@@ -9,7 +9,7 @@
 function rc:storage/macro/reset_param
 
 data modify storage rc:data macro.op set value "attack"
-data modify storage rc:data macro.id set from storage rc:data selected_item.tag.Weapon.id
+data modify storage rc:data macro.id set from storage rc:data selected_item.tag.weapon.id
 
 execute store success score success temp run function rc:weapon/operation_macro with storage rc:data macro
 

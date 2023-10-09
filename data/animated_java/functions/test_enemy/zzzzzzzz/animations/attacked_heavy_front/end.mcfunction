@@ -1,3 +1,0 @@
-execute if score @s aj.test_enemy.animation.attacked_heavy_front.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:test_enemy/zzzzzzzz/animations/attacked_heavy_front/end_loop
-execute if score @s aj.test_enemy.animation.attacked_heavy_front.loop_mode = $aj.loop_mode.once aj.i run function animated_java:test_enemy/animations/attacked_heavy_front/stop
-execute if score @s aj.test_enemy.animation.attacked_heavy_front.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:test_enemy/animations/attacked_heavy_front/pause

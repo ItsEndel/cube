@@ -1,2 +1,0 @@
-scoreboard players set @s aj.test_enemy.rig_loaded 1
-execute unless score @s aj.test_enemy.export_version = aj.test_enemy.export_version aj.i at @s run function animated_java:test_enemy/zzzzzzzz/mark_outdated_rig
