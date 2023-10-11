@@ -6,7 +6,7 @@
 ## 检测武器
 function rc:storage/player/selected_item
 
-execute if data storage rc:data selected_item.tag.weapon run function rc:weapon/attack
+execute if data storage rc:data selected_item.tag.weapon run function rc:game/weapon/attack
 
 
 ## 撤销进度
