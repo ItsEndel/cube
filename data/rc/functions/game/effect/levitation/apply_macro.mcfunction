@@ -1,6 +1,6 @@
 #> rc:game/effect/levitation/apply_macro
 # @public
-# @param duration<int>, amplifier<byte>
+# @param macro(duration<int>, amplifier<byte>)
 #
 # 给予效果
 

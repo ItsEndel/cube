@@ -1,6 +1,6 @@
 #> rc:game/effect/glowing/apply_macro
 # @public
-# @param duration<int>
+# @param macro(duration<int>)
 #
 # 给予效果
 

@@ -1,7 +1,7 @@
 #> rc:game/effect/glowing/apply
 # @public
 # @context AsEntity
-# @param temp::duration
+# @param score(temp::duration)
 #
 # 给予效果
 

@@ -53,6 +53,7 @@ scoreboard objectives add effect.glowing.timer dummy "发光效果计时器"
 
 ## 创建队伍
 team add no_collision "无碰撞"
+
 team modify no_collision collisionRule never
 
 

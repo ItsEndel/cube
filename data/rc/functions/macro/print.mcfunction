@@ -1,5 +1,5 @@
 #> rc:macro/print
 # @public
-# @param macro::{message<any>}
+# @param macro(message<any>)
 
 $say $(message)

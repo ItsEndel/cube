@@ -3,7 +3,7 @@
 #   use
 #   attack
 # @context AsPlayer
-# @param macro::{id<string>, op<string>}
+# @param macro(id<string>, op<string>)
 #
 # 执行武器操作函数
 

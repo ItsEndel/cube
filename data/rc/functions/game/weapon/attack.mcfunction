@@ -1,7 +1,7 @@
 #> rc:game/weapon/attack
 # @within function 
 #   rc:player/attack
-# @param rc:data::{selected_item.tag.weapon.id}
+# @param storage(rc:data{selected_item.tag.weapon.id})
 
 
 

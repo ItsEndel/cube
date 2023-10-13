@@ -1,7 +1,7 @@
 #> rc:game/effect/levitation/apply
 # @public
 # @context AsEntity
-# @param score::{temp::{duration,amplifier}}
+# @param score(temp::[duration,amplifier])
 #
 # 给予效果
 
